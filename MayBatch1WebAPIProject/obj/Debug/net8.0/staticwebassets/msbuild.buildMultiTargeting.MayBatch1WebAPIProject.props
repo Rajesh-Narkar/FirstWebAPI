@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MayBatch1WebAPIProject.props" />
+</Project>
